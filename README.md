@@ -14,7 +14,7 @@ Note: If there are more than 1 combination of such items, you can return any 1 o
 
 ### Approach
 
-This code is an implementation of a Java program that finds a combination of numbers from an input array that sums up to zero. Here's a step-by-step explanation of the code:
+This code is an implementation of a Java program that finds a combination of numbers from an input array that sums up to zero. Here's a explanation of the code:
 
 1. The `find` method takes an integer array `arr` as input and returns a `List<Integer>` representing the combination of numbers that sum up to zero.
 
@@ -29,3 +29,6 @@ Therefore, the overall time complexity of the find function is O(n)3, dominated 
 
 ## Space Complexity
  Both the recursive calls and the output space, the overall space complexity of the given code is O(N).
+
+## Input and Output
+ ![logo](image/img123.png)
